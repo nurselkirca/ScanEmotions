@@ -1,0 +1,18 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "A1498947-4887-4438-9BFE-2E947C37FA33": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Weights",
+            "name": "weights",
+            "path": "com.apple.CoreML/weights"
+        },
+        "BDF12570-4CF0-4EF5-A031-B2F368F9EF2B": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "EmotionModel.mlmodel",
+            "path": "com.apple.CoreML/EmotionModel.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "BDF12570-4CF0-4EF5-A031-B2F368F9EF2B"
+}
